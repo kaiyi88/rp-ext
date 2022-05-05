@@ -9,7 +9,7 @@
     "help_url": "<todo>"
   },
   "releases": {
-    "ds3617xsp_42661": "https://raw.githubusercontent.com/dodo-dk/rp-ext/main/acpid/releases/ds3622xsp_42661.json",
-    "ds3622xsp_42661": "https://raw.githubusercontent.com/dodo-dk/rp-ext/main/acpid/releases/ds3622xsp_42661.json"
+    "ds3617xsp_42661": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/recipes/ds3617xsp_42661.json",
+    "ds3622xsp_42661": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/recipes/ds3622xsp_42661.json"
   }
 }
