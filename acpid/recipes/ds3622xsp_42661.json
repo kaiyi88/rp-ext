@@ -33,7 +33,7 @@
   },
 
     "scripts": {
-    "on_os_load": "install-acpid.sh",
+    "on_os_load": "install-acpid.sh"
   }
 
 }
