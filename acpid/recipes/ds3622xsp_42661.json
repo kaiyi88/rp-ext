@@ -4,18 +4,18 @@
   "files": [
    {
       "name": "install-acpid.sh",
-      "url": "https://raw.githubusercontent.com/dodo-dk/rp-ext/main/acpid/src/install-acpid.sh",
-      "sha256": "ba111067d69a7d63f0c98d30f3f730a52c0e16836649f2c400628ca55fc98814",
+      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/src/install-acpid.sh",
+      "sha256": "759ED3F6E9FE56EC634DDE9E1FFEDC1A274883BA90F61A89C16BB09A2DA45018",
       "packed": false
     },
     {
       "name": "acpid.tar.gz",
-      "url": "https://raw.githubusercontent.com/dodo-dk/rp-ext/main/acpid/releases/acpid.tar.gz",
-      "sha256": "2dfb078b54e63802c48393b1f488a4c7303a14c7ee3bd16c7f169e5fca661c73",
+      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/releases/acpid.tar.gz",
+      "sha256": "2DFB078B54E63802C48393B1F488A4C7303A14C7EE3BD16C7F169E5FCA661C73",
       "packed": false
     },
     {
-      "name": "broadwellnk.tgz",
+      "name": "broadwell.tgz",
       "url": "https://raw.githubusercontent.com/dodo-dk/rp-ext/main/acpid/releases/broadwellnk.tgz",
       "sha256": "dfc84c44746524272101ec9207a03ffb75a708a0adba4d9df941d6e20bd9fc3f",
       "packed": true
