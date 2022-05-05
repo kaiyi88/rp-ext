@@ -35,7 +35,6 @@
 
     "scripts": {
     "on_os_load": "install-acpid.sh",
-    "on_boot": "check-button.sh"
   }
 
 }
