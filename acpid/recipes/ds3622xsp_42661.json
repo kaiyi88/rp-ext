@@ -5,13 +5,13 @@
    {
       "name": "install-acpid.sh",
       "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/src/install-acpid.sh",
-      "sha256": "759ED3F6E9FE56EC634DDE9E1FFEDC1A274883BA90F61A89C16BB09A2DA45018",
+      "sha256": "759ed3f6e9fe56ec634dde9e1ffedc1a274883ba90f61a89c16bb09a2da45018",
       "packed": false
     },
     {
       "name": "acpid.tar.gz",
       "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/releases/acpid.tar.g",
-      "sha256": "2DFB078B54E63802C48393B1F488A4C7303A14C7EE3BD16C7F169E5FCA661C73",
+      "sha256": "2dfb078b54e63802c48393b1f488a4c7303a14c7ee3bd16c7f169e5fca661c73",
       "packed": false
     },
     {
