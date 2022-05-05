@@ -4,25 +4,25 @@
   "files": [
    {
       "name": "install-acpid.sh",
-      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/src/install-acpid.sh",
+      "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/src/install-acpid.sh",
       "sha256": "759ED3F6E9FE56EC634DDE9E1FFEDC1A274883BA90F61A89C16BB09A2DA45018",
       "packed": false
     },
     {
       "name": "acpid.tar.gz",
-      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/releases/acpid.tar.gz",
+      "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/releases/acpid.tar.g",
       "sha256": "2DFB078B54E63802C48393B1F488A4C7303A14C7EE3BD16C7F169E5FCA661C73",
       "packed": false
     },
     {
       "name": "broadwell.tgz",
-      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/releases/broadwellnk.tgz",
+      "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/releases/broadwellnk.tgz",
       "sha256": "dfc84c44746524272101ec9207a03ffb75a708a0adba4d9df941d6e20bd9fc3f",
       "packed": true
     },
     {
       "name": "check-button.sh",
-      "url": "https://github.com/kaiyi88/rp-ext/blob/main/acpid/src/check-button.sh",
+      "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/src/check-button.sh",
       "sha256": "0267e54d96aa02b8f2098331f5e2cb82d367e9212e427ffbbb925c278c3acada",
       "packed": false
     }
