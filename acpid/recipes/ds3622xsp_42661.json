@@ -15,7 +15,7 @@
       "packed": false
     },
     {
-      "name": "broadwell.tgz",
+      "name": "broadwellnk.tgz",
       "url": "https://raw.githubusercontent.com/kaiyi88/rp-ext/main/acpid/releases/broadwellnk.tgz",
       "sha256": "dfc84c44746524272101ec9207a03ffb75a708a0adba4d9df941d6e20bd9fc3f",
       "packed": true
