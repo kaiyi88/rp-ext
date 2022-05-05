@@ -29,7 +29,8 @@
   ],
 
   "kmods": {
-    "button.ko": ""
+    "button.ko": "",
+    "button.ko":""
   },
 
     "scripts": {
