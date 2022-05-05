@@ -30,7 +30,7 @@
 
   "kmods": {
     "evdev.ko": "",
-    "button.ko":""
+    "button.ko": ""
   },
 
     "scripts": {
